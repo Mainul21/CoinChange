@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">coinChange</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button5">5</string>
+    <string name="button4">4</string>
+    <string name="button3">3</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button0">0</string>
+    <string name="buttonclear">Clear</string>
+    <string name="txtinput">Taka:</string>
+    <string name="txtheader">Vangti Chai</string>
+    <string name="txt500">500:</string>
+    <string name="txt200">200:</string>
+    <string name="txt100">100:</string>
+    <string name="txt50">50:</string>
+    <string name="txt20">20:</string>
+    <string name="txt10">10:</string>
+    <string name="txt5">5:</string>
+    <string name="txt2">2:</string>
+    <string name="txt1">1:</string>
+    <string name="bu">1</string>
+    <string name="txt">Taka:</string>
+</resources>
